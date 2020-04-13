@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2019-06-07 17:56
+# TODO: Translation updated at 2020-04-13 20:03
 # Original translator : AraMacaw
 # Reviews : 1 (BananaSplit)
 
@@ -6,13 +6,13 @@
 translate french lorem1_3d89afe3:
 
     # m "I went to the bar Lorem had suggested as our meeting place. When I looked around, I saw Bryce sitting at a table, talking to someone I couldn’t see. I lingered on him for a second, but soon spotted Lorem in the corner of my eye."
-    m "﻿J'allai au bar que Lorem avait suggéré pour notre rendez-vous. Quand je regardai autour de moi, j'aperçus Bryce assis a une table, parlant à une personne que je ne pouvais voir. Je m'attardai sur lui le temps d'une seconde, mais remarquai bientôt Lorem du coin de l'œil."
+    m "﻿Je suis allé au bar que Lorem m'avait indiqué dans l'espoir de l'y retrouver. Quand je regardé autour de moi, j'aperçu Bryce assis a une table, parlant à une personne que je ne pouvais pas voir. Je m'attardé sur lui le temps d'une seconde, mais remarqué bientôt Lorem du coin de l'œil."
 
 # game/lorem1.rpy:40
 translate french lorem1_fb5ec58c:
 
     # Lo "There you are!"
-    Lo "Te voilà !"
+    Lo "Vous voilà !"
 
 # game/lorem1.rpy:42
 translate french lorem1_e53ec95c:
@@ -72,13 +72,13 @@ translate french _call_skipcheck_16_694b8196:
 translate french _call_skipcheck_16_13dd88b5:
 
     # Lo "I'm glad you came anyway."
-    Lo "Je suis content que tu sois venu finalement."
+    Lo "C'est bon de vous voir ! Je n'étais pas certain que vous viendrez..."
 
 # game/lorem1.rpy:145
 translate french _call_skipcheck_16_2e0eeda6:
 
     # c "I'm kinda surprised you wanted to meet me here. Don't take this the wrong way, but are you even old enough to drink?"
-    c "Je suis quelque peu surpris que tu aies voulu me rencontrer ici. Ne le prends pas mal, mais as-tu au moins l'âge requis pour boire ?"
+    c "Je suis quelque peu surpris que tu à voulu me rencontrer ici. Ne le prends pas mal, mais as-tu au moins l'âge requis pour boire ?"
 
 # game/lorem1.rpy:147
 translate french _call_skipcheck_16_d23a2b3d:
@@ -126,13 +126,13 @@ translate french _call_skipcheck_16_260d481d:
 translate french _call_skipcheck_16_57ab5828:
 
     # c "And I thought the uniform was just a clever disguise."
-    c "Et moi qui pensais que l'uniforme était juste un habile déguisement."
+    c "Et moi qui pensais que l'uniforme était juste un bon déguisement."
 
 # game/lorem1.rpy:163
 translate french _call_skipcheck_16_a750447a:
 
     # Lo normal "It's real, though. Sebastian knows I work for the local post office."
-    Lo normal "C'est la vérité cependant. Sébastien sait que je travaille pour le bureau de poste local."
+    Lo normal "Mais c'est la vérité. Sebastian sait que je suis facteur pour la poste de la ville."
 
 # game/lorem1.rpy:165
 translate french _call_skipcheck_16_c4112abb:
@@ -156,19 +156,19 @@ translate french _call_skipcheck_16_6a88e8e8:
 translate french _call_skipcheck_16_98593d8f:
 
     # Lo think "This town doesn't exactly offer the best opportunities to put my degree to good use, though."
-    Lo think "Cependant, cette ville n'offre pas vraiment les meilleures opportunités pour mettre mon diplôme à profit."
+    Lo think "Mais cette ville n'offre pas vraiment de débouchés pour un diplômé comme moi."
 
 # game/lorem1.rpy:190
 translate french _call_skipcheck_16_f52dcfe5:
 
     # c "Then why move here in the first place?"
-    c "Pourquoi alors avoir emménagé ici ?"
+    c "Alors pourquoi être venu ici ?"
 
 # game/lorem1.rpy:192
 translate french _call_skipcheck_16_d8bc587f:
 
     # Lo normal "Living in the city can be very expensive. I can always move later when I get a job there. I've got other plans right now, though."
-    Lo normal "Vivre dans une grande ville peut revenir très cher. Je peux toujours déménager plus tard si j'obtiens un travail là-bas. J'ai d'autres plans pour l'instant, cependant."
+    Lo normal "Vivre dans une grande ville peut revenir très cher. Je peux toujours déménager plus tard si j'obtiens un travail là-bas. Mais pour le moment j'ai d'autres projets."
 
 # game/lorem1.rpy:194
 translate french _call_skipcheck_16_3ad10c5b:
@@ -186,7 +186,7 @@ translate french _call_skipcheck_16_b78abb33:
 translate french _call_skipcheck_16_2e662216:
 
     # Lo relieved "But this is serious!"
-    Lo relieved "Mais c'est un sujet sérieux !"
+    Lo relieved "Mais c'est quelque chose de sérieux !"
 
 # game/lorem1.rpy:217
 translate french _call_skipcheck_16_1db2bc1a:
@@ -222,7 +222,7 @@ translate french _call_skipcheck_16_60287eb6:
 translate french _call_skipcheck_16_e08aa85e:
 
     # Lo relieved "I don't know. You don't seem so thrilled about doing this anymore..."
-    Lo relieved "Je ne sais pas. Tu ne sembles plus si emballé que ça... "
+    Lo relieved "Je ne sais pas... Tu n'a pas l'air particulièrement emballé par tout ça..."
 
 # game/lorem1.rpy:249
 translate french _call_skipcheck_16_8daf20aa:
